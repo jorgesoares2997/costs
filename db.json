@@ -1,14 +1,19 @@
 {
   "projects": [
     {
-      "name": "jorginho",
+      "name": "Jorge",
+      "budget": "10000000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
       "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "projeto teste",
-      "budget": "5000",
+      "name": "projetinho",
+      "budget": "1000000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -16,6 +21,39 @@
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "projeto de Ingrid",
+      "budget": "1000000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "ultimo projeto",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "jorgete",
+      "budget": "10000000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [
